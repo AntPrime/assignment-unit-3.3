@@ -65,7 +65,13 @@ for (let i = 0;i<supplyChanges.length; i++ ){
 //    'negatives', and 'zeroes', create three new arrays named 'stretchPositives',
 //    'stretchNegatives', and 'stretchZeroes'. 
 console.log('7. Looping through supplyChanges to populate more arrays with positive, negative, and zero values:');
-
+// Tried but could not figure out
+//for( stretchZeroes of supplyChanges){
+ // if (stretchZeroes === '0'){
+ //   console.log(stretchZeroes)
+ // }
+ 
+//}
 
 // 8. Create a variable called 'totalParts' and assign it a value of 0.
 //    Then, write a loop that adds each value of the 'supplyChanges'
